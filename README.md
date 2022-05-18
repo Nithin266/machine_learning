@@ -1,2 +1,2 @@
 # machine_learning
-machine learning projects
+machine learning projects normal
